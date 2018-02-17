@@ -1,3 +1,11 @@
+Toyota BESmartHackathon iOS Mobile Application:
+
+  Capabilites:
+    1. Launch websites from QR Codes
+    2. Text messages to any U.S phone number using integrated Twilio server
+    
+
+
 install flask for python twill server:
 pip3 install flask
 
